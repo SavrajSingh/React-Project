@@ -147,6 +147,7 @@ class Battle extends React.Component {
                     Battle
                 </Link>}
             </div>
+            
           )
   }
 }
